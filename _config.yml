@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Aniketh Vijesh"
 title_separator          : "-"
 name                     : &name "Aniketh Vijesh"
-description              : &description "This is me hehe"
+description              : &description "Portfolio of Aniketh Vijesh, A second year AI undergrad at Amrita Vishwa Vidyapeetam"
 url                      : https://TheHuntsman4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TheHuntsman4.github.io"
@@ -21,14 +21,14 @@ repository               : "TheHuntsman4.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile_image.webp"
+  name             : "Aniketh Vijesh"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Second Year AI undergraduate @ Amrita Vishwa Vidyapeetam. Member and Mentor @amFOSS."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "anikethvij464@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "TheHuntsman4"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
